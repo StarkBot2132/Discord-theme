@@ -944,9 +944,8 @@ button[aria-label="Send a gift"] {
 }
 .wordmark-2u86JB:after {
   filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: url("");
+  content: url("data:image/svg+xml,https://w7.pngwing.com/pngs/79/263/png-transparent-discord-logo-wordmark-computer-icons-discord-icon-text-logo-online-chat.png");
 }
-
 .channelName-3KPsGw,
 .subtitle-3PyFgf {
   color: var(--darkplus-sec);
